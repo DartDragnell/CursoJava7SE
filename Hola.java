@@ -84,6 +84,11 @@ public class Hola{
             condicion_while++;
         }
 
+        for (int i = 0; i < 5; i++) {
+            System.out.println("Adios");
+            //Revisar video de ciclo for en youtube
+            // https://www.youtube.com/watch?v=ABrzQYPC2as&list=PLvimn1Ins-42o8Ms1G2SuRloD01nnXn31&index=12
+        }
 
 
     }
